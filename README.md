@@ -101,6 +101,4 @@ Engineering Student | AI & Data Science Enthusiast
 Passionate about building AI-powered solutions using Machine Learning and NLP.
 
 ⭐ If you found this project useful, feel free to star the repository!
----
-
-⭐ If you found this project useful, feel free to ory!
+---⭐ If you found this project useful, feel free to ory!
